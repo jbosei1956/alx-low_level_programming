@@ -1,1 +1,1 @@
-C programming
+cd progC progra
