@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+75be07fa98c235348fab9517488bfb5d0838f260 refs/heads/develop
+38fb5e9f051269e10ca66fbdb69d71179b1db53d refs/heads/fix_indentation
+a71f33d66f324a2b1fb7c57dd1f91f94f89c5b8c refs/heads/hotfix
+438f97cb63fa6ee8d6a8092a4f2fb529e238d1c9 refs/heads/master
+96396382a3cd1fd428269636ff94337421a10808 refs/heads/v2
+1c5bdde1ceccfe97b92b8981d74b64901229d3b1 refs/tags/0.2
+^e770e760c1ca6166b29d0fe820a9a9e586421081
+5049a4173aa8e9cb500a7689e7cdf4cd2d5ffb0d refs/tags/v0.1
